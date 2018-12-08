@@ -3,7 +3,7 @@ import os
 import csv
 
 #Specify file path
-cvfilepath = os.path.join("..","election_data.csv")
+cvfilepath = os.path.join("election_data.csv")
 
 #Read csv
 with open(cvfilepath, newline="") as csvfile:

@@ -3,7 +3,7 @@ import os
 import csv
 
 #Create path for file name
-csvpath = os.path.join("..","budget_data.csv")
+csvpath = os.path.join("budget_data.csv")
 
 #create lists to hold months and total profit loss values
 new_months=[]
